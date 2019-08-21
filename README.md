@@ -1,4 +1,4 @@
-<p align="center"><img alt="zhaop33 的个人博客" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
+<p align="center"><img alt="zhaop33 的个人博客" src="https://zhaoblic.cn-bj.ufileos.com/59224cf41dd06_610.jpg?iopcmd=thumbnail&type=4&width=35"></p><h2 align="center">
 zhaop33 的个人博客
 </h2>
 
